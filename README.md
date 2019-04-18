@@ -1,2 +1,2 @@
 # NodejsRest
-sample rest service builted by nodejs, express, mongodb 
+nodejs, express, mongodb ile geliştirilmiş rest servis örneği
